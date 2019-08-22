@@ -1,4 +1,4 @@
-# datastorehelper
+# datastore-helper
 
 [![GoDoc][godoc-badge]][godoc]
 
@@ -7,7 +7,7 @@ A helper for Google Cloud Datastore for Go.
 ## Usage
 
 ```
-import "github.com/micnncim/datastorehelper"
+import dshelper "github.com/micnncim/datastore-helper"
 ```
 
 ## Reference
